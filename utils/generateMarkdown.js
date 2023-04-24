@@ -5,6 +5,7 @@
 
 const getBadgeAndUrl=(licenseName,licenses) =>{
   const license = licenses.find(l => l.license === licenseName);
+  console.log(license);
   return {
     badge: license ? license.badge : '',
     url: license ? license.url : ''
