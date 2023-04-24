@@ -15,6 +15,8 @@ const getBadgeAndUrl=(licenseName,licenses) =>{
 //function to generate markdown for README
 const generateMarkdown = (answers,licenses) => {
   const { badge, url } = getBadgeAndUrl(answers.license,licenses);
+  console.log(badge);
+
   return `[![License: ${answers.license}](${badge})](${url})
 
   # ${answers.title}
