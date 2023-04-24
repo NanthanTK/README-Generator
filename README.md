@@ -1,4 +1,4 @@
-[![License: GPL v3]()]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # README_Generator
 
@@ -11,13 +11,12 @@ This application makes that task easy by creating the README.md from the the dev
 
 It prompts the developers for the necessary information for the different sections and based on the input, it creates the README file. 
 
-
 ## Table of Contents 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
   
   
-- [README_Generator](#projecttitle)
+- [README\_Generator](#readme_generator)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
@@ -42,15 +41,16 @@ Steps to install
 
 A video of the installation and the usage can be seen in the video by clicking on the link below.
 
+For multi line texts, when you enter, your text editor will open. enter text, save and close editor. The text would be passed to the input.
 https://drive.google.com/file/d/1dzp3nmFransNvNedrah0PNrG9qGXB5na/view
 
 ## Credits
 
-None at this stage
+None
 
 ## License
 
-GPL v3
+MIT
 
 ## How to Contribute
 
@@ -65,4 +65,4 @@ Test the app by inputting different texts and check if the README file reflects 
 if you have further questions, check my contact information on my GitHub profile at 
 NanthanTK 
 or
-email me at abc@dmail.com
+email me at sample@gmail.com
