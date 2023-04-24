@@ -42,6 +42,8 @@ Steps to install
 
 A video of the installation and the usage can be seen in the video by clicking on the link below.
 
+https://drive.google.com/file/d/1dzp3nmFransNvNedrah0PNrG9qGXB5na/view
+
 ## Credits
 
 None at this stage
